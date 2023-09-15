@@ -7,4 +7,4 @@
 - DATABASE: H2
 - IDE: IntelliJ
 - ENDPOINT DOCUMENTATION: SWAGGER
-- SWAGGER LINK: http://localhost:8080/swagger-ui.html
+    - SWAGGER LINK: http://localhost:8080/swagger-ui.html
